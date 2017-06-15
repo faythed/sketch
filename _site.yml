@@ -1,0 +1,11 @@
+name: "Faythe's Sketches"
+navbar:
+  title: "My Sketches"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+      
+output_dir: "."
+  

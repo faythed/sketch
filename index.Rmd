@@ -1,0 +1,11 @@
+---
+title: 'My home page'
+output: html_document
+---
+#June 13, 2017  
+This is a Zuni pot with a cactus upside down.  
+![](C:\Users\Faythe\Downloads\sketchjun13_2017.jpg)
+
+#June 14, 2017  
+This is a guanaco!!  
+![](C:\Users\Faythe\Downloads\sketchjun14_2017.jpg)
