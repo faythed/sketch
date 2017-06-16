@@ -3,4 +3,4 @@ title: "About"
 
 ---
 
-#This is a test website. It also doubles as a place to share my sketches and other thoughts. 
+This is a test website. It also doubles as a place to share my sketches and other thoughts. 
